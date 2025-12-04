@@ -11,6 +11,7 @@ public class Student {
         this.avgMark = avgMark;
     }
 
+    // Ім'я
     public String getName() {
         return name;
     }
@@ -19,6 +20,7 @@ public class Student {
         this.name = name;
     }
 
+    // Прізвище
     public String getLastName() {
         return lastName;
     }
@@ -27,6 +29,7 @@ public class Student {
         this.lastName = lastName;
     }
 
+    // Середній бал
     public double getAvgMark() {
         return avgMark;
     }
